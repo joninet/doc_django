@@ -1,0 +1,12 @@
+site_name: "Mi Documentación Django"
+
+nav:
+  - Inicio: index.md
+  - Modelos:
+      - Crear modelo: modelos/crear_modelo.md
+      - Migraciones / Base de datos: modelos/migraciones_base_de_datos.md
+      - Relaciones: modelos/relaciones.md
+      - consultas ORM: modelos/consultas_ORM.md
+
+theme:
+  name: material
